@@ -1,0 +1,19 @@
+{
+    "asetustiedostokansio":"asetustiedostot",
+    "kirjasto":{
+        "kansio":"kirjasto",
+        "varastokerros":"varastokerros.js",
+        "varastokasittelija":"varastokasittelija.js"
+    },
+    "rest":{
+        "kansio":"kirjastoRest",
+        "restfunktiot":"restApufunktiot.js",
+        "tilakoodit":"statuskoodit.js",
+        "varastofunktiot":"varastoapufunktiot.js",
+        "restkasittelija":"restkasittelija.js",
+        "varastokerros":"tietovarastokerros.js"
+    },
+    "varastot":{
+        "kansio":"varastot"
+    }
+}
