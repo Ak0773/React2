@@ -1,0 +1,4 @@
+.lisatiedot label p {
+	display: flex;
+	font-size: 16px;
+}

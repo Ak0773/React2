@@ -1,0 +1,29 @@
+.Taulukko table {
+	border: solid black 0.1em;
+	border-collapse: collapse;
+}
+
+.Taulukko th {
+	background-color: bisque;
+	border: solid black 0.1em;
+	text-align: left;
+}
+
+.Taulukko td {
+	border: solid black 0.1em;
+	text-align: left;
+	padding: 0.25em;
+}
+
+.Taulukko .Kuva {
+	height: 40px;
+}
+
+.Taulukko .valittu {
+	background-color: aquamarine;
+	border: solid blue 0.2em;
+}
+img {
+	height: 40px;
+	width: 40px;
+}

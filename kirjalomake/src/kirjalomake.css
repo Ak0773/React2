@@ -1,0 +1,9 @@
+p {
+	display: inline;
+	font-size: 16px;
+}
+.lomake div {
+	padding-top: 10px;
+	font-size: 20px;
+	font-weight: bold;
+}
